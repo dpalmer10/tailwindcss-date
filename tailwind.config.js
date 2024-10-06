@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage:{
-        'my-image':"url('https://cdn.discordapp.com/attachments/512873683509837826/1166582269146841118/692056.png?ex=654b0367&is=65388e67&hm=95c463629fa111d381a8029bf22209142b952de0965a039d791081d31a235a23&')"
+        'my-image':"url('https://cdn.discordapp.com/attachments/512873683509837826/1292308039897972787/692056.png?ex=67034326&is=6701f1a6&hm=ca48e26849738a1aaa5cfcaf2c40bc460e5161655fcd3b2ccff27a43c2e96f0d&')"
       }
     },
   },
